@@ -7,7 +7,8 @@
 ## Kursbeskrivelse 
 
 Kurset tas normalt i første høstsemester, og teller 5 studiepoeng. Dette kurset gir en grunnforståelse for programmering i Python, med fokus på forståelse av koding med økonomiske anvendelser.
-[Beskrivelse av læringsutbytte](https://uit.no/utdanning/emner/emne/841873/sok-1003?ar=2024&semester=H){:target="blank"}
+
+- [Beskrivelse av læringsutbytte](https://uit.no/utdanning/emner/emne/841873/sok-1003?ar=2024&semester=H){:target="blank"}
 
 ## Faglærerinfo  
 
