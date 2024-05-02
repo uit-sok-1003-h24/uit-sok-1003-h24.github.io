@@ -20,7 +20,7 @@ xxx har også kontortid, der studentene kan stille spørsmål om de har behov (i
 
 ## Pensum  
 
-[Interaktive notater i Jupyter]([https://github.com/uit-sok-1003-h24](https://github.com/uit-sok-1003-h24/notebooks)){:target="blank"}  NB: Dette kurset handler om arkene fra 0 til 7!
+[Interaktive notater i Jupyter](https://github.com/uit-sok-1003-h24/notebooks){:target="blank"}
 [Kapittel i DataCamp (se kursplan)](https://learn.datacamp.com/){:target="blank"} 
 
 DataCamp blir tilgjengelig mandag 16. august.
