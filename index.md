@@ -11,7 +11,7 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.
 
 ## Faglærerinfo  
 
-[Markus Johnsen Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163){:target="blank"} (fagansvarlig). Kontor: 02.307
+[Markus Johnsen Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163){:target="blank"} (fagansvarlig). Kontor: 02.411
 
 xxx er (seminar/studenthjelp,<xxx@post.uit.no>)
 
