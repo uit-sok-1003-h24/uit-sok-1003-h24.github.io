@@ -6,16 +6,16 @@ Vurderingsformen i dette kurset er innlevering av to mappeoppgaver. Mappeoppgave
 Frister for innleveringer [finnes her](https://uit-sok-1003-h24.github.io/frister.html).
 
 ## Første mappeoppgave 
-Skal leveres inn 17/10, med presentasjon 19/10. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til ole.k.aars@uit.no.   
+Skal leveres inn "insert dato", med presentasjon "insert dato to dager senere". Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til markus.j.aase@uit.no.   
 
-Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h22/mappe) .
+Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe) .
 
-Første innlevering av PDF'en i første mappeoppgave gjøres på canvas [her:](https://uit.instructure.com/courses/26947/assignments)
+Første innlevering av PDF'en i første mappeoppgave gjøres på canvas [her:]("insert canvas leveringslink")
 
-MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 6/12. Mappen skal likevel være i relativt ferdig form ved innleveringen 17/10. 
+MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering "insert dato". Mappen skal likevel være i relativt ferdig form ved innleveringen "insert dato"0. 
 
 ## Andre mappeoppgave 
-Skal leveres inn 6/12, med presentasjon 29/11 og 30/11. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
+Skal leveres inn "insert dato", med presentasjon "insert dato" og "insert dato". Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
 
 Mappeoppgave 2 <a href='https://github.com/uit-sok-1003-h22/mappe2/blob/main/Mappe%202_oppgaver.ipynb'> finner dere her</a>.
 
@@ -28,7 +28,7 @@ Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som 
 
 [Se her](https://github.com/uit-sok-1003-h22/uit-sok-1003-h22.github.io/blob/main/github.md) for å lese mer om hvordan man leverer på github
 
-Dere kan levere i grupper på opptil 3 personer. <a href= 'https://docs.google.com/forms/d/e/1FAIpQLSeljUukzUU5d-VbxyM4C0x4WUplhUKBCU5wIpPZl_bP5kN71A/viewform?usp=sf_link'> Registrer medlemmer av gruppen deres her.
+Dere kan levere i grupper på opptil 3 personer. Registrer medlemmer av gruppen deres ved å sende mail til markus.j.aase@uit.no med informasjon om gruppemedlemmer, og navngi emnefeltet i mailen "GRUPPE SOK-1003".
 
 ### For mappe 1
 Bruk følgende navn: SOK-1003-eksamen-2022-mappe1. 
@@ -47,7 +47,8 @@ Det er ingen minste lengde på oppgaven. Det avgjørende er om den er godt besva
 # Muntlig presentasjon
 * Gruppen/kandidaten må kunne forklare og presentere oppgaven på en enkel og presis måte. 
 * I grupper med flere, må alle medlemmene ha eierskap til prosjektet og kunne svare hver for seg om alle detaljer. 
-* Dere skal IKKE lage power-point, men dere kan bruke jupyter. 
+* Dere skal IKKE lage power-point, men dere kan bruke jupyter.
+* Husk at generativ AI ikke er et verktøy under munlig presentasjon, og dere vil bli testet i kodeforståelsen deres.
 
 
 [Se forøvrig de offisielle karakterkriteriene.](https://www.uhr.no/_f/p1/i47fd1bbe-ab38-4e5f-bdf2-58bcf015a5ef/vurderingskriterier_bacheloroppgaven_060814_korrigert.pdf) 
