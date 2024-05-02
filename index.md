@@ -11,16 +11,16 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.
 
 ## Faglærerinfo  
 
-[Ole Kristian Aars](https://uit.no/ansatte/person?p_document_id=768566){:target="blank"} (fagansvarlig). Kontor: 02.307
+[Markus Johnsen Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163){:target="blank"} (fagansvarlig). Kontor: 02.307
 
-Erlend Sørra er (seminar/studenthjelp,<eso086@post.uit.no>)
+xxx er (seminar/studenthjelp,<xxx@post.uit.no>)
 
-Erlend har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
+xxx har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
 
 
 ## Pensum  
 
-[Interaktive notater i Jupyter](https://github.com/uit-sok-1003-h22){:target="blank"}  
+[Interaktive notater i Jupyter](https://github.com/uit-sok-1003-h24){:target="blank"}  
 [Kapittel i DataCamp (se kursplan)](https://learn.datacamp.com/){:target="blank"} 
 
 DataCamp blir tilgjengelig mandag 16. august.
@@ -34,7 +34,7 @@ Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjenno
 
 - [Forelesningsplan](forelesningsplan.md){:target="blank"}
 
-- [Timeplan på timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=SOK-1003-1#week=33-52){:target="blank"}
+- [Timeplan på timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=24h&module=SOK-1003-1#week=33-52){:target="blank"} #endringer vil skje her!
 
 ## Forelesninger/undervisning
 
@@ -42,7 +42,7 @@ Det gjøres ikke opptak av forelesninger for dette semesteret.
   
 Under forelesning vil et zoom-rom være åpent hvis det er spørsmål noen ikke ønsker å ta i plenum.
 
-- [Zoom-rom (for spørsmål og tilbakemeldinger)](https://uit.zoom.us/j/7036118194?pwd=Umxlb1VFOXRaa3dDSUdaTzNUbTYrUT09)
+- [Zoom-rom (for spørsmål og tilbakemeldinger)](https://uit.zoom.us/j/7036118194?pwd=Umxlb1VFOXRaa3dDSUdaTzNUbTYrUT09) #endringer vil skje her!
 
 ## Kunngjøringer  
 
