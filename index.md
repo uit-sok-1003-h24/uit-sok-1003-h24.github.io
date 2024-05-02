@@ -7,7 +7,7 @@
 ## Kursbeskrivelse 
 
 Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.  
-[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=766160){:target="blank"}
+[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne/841873/sok-1003?ar=2024&semester=H){:target="blank"}
 
 ## Faglærerinfo  
 
