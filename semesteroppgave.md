@@ -26,7 +26,7 @@ Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som 
 - Wiselow: På wiseflow vil hver mappeoppgave ha en egen "flow". Her leverer en person per gruppe. Denne personen må likevel invitere andre gruppemedlemmer med som deltakere. 
 - Github: en person per mappe, per gruppe, gir tilging til faglærer ("okaars"). Hvis dere har satt reposetoriet til public (anbefales ikke), må dere dele lenken til dette på markus.j.aase@uit.no
 
-[Se her](https://github.com/uit-sok-1003-h22/uit-sok-1003-h24.github.io/blob/main/github.md) for å lese mer om hvordan man leverer på github
+[Se her](https://uit-sok-1003-h24.github.io/github.html) for å lese mer om hvordan man leverer på github
 
 Dere kan levere i grupper på opptil 3 personer. Registrer medlemmer av gruppen deres ved å sende mail til markus.j.aase@uit.no med informasjon om gruppemedlemmer, og navngi emnefeltet i mailen "GRUPPE SOK-1003".
 
