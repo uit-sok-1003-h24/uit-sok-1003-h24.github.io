@@ -47,3 +47,5 @@ kopi av notebooks-folderen hvor du kan gjøre egne endringer som ikke overskrive
 cd notebooks_edit
 jupyter lab
 ```
+
+OBS: Hvis dere sliter veldig kan dere henvende dere til Orakeltjenesten på UiT.
