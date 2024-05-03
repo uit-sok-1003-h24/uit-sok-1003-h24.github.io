@@ -35,7 +35,7 @@ For å hente filene til Jupyter  åpner du kommanovinduet på nytt, men denne ga
         
 4. Last ned kursmateriellet ved å kopiere inn følgende kommando i kommandovinduet: 
 
-```git clone https://github.com/uit-sok-1003-h22/notebooks/```
+```git clone https://github.com/uit-sok-1003-h24/notebooks/```
         
 5. Filene på github kommer til å endres, og da må du oppdatere dem. Det kan derfor være lurt å ha en 
 kopi av notebooks-folderen hvor du kan gjøre egne endringer som ikke overskrives når du henter oppdaterte notater.For å lage en slik kopi skriver du:
