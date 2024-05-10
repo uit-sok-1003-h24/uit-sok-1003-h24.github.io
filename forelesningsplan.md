@@ -41,7 +41,7 @@ th {
 * Variabler og typer<br>
 * Å sette variabler<br>
 * Ulike variabeltyper<br>
-* Konvertere variabeltype</td>	<td>Python Basics</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/1%20-%20introduksjon.ipynb'>1 - variabler.ipynb</a><br>
+* Konvertere variabeltype</td>	<td>Python Basics</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/1%20-%20introduksjon.ipynb'>1 - variabler.ipynb</a><br>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td>35</td>	<td>2</td>	<td>Funksjoner og pakker</td>	<td>* Funksjoner<br>
 * Hjelp til funksjoner<br>
@@ -52,7 +52,7 @@ th {
 </td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td></td>	<td></td>	<td>Funksjoner</td>	<td>* Definere en enkel funksjon<br>
 * Funksjoner med flere argumenter<br>
-* Funksjoner som returnerer flere variabler</td>	<td>Writing your own functions</td>	<td>Toolbox I</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/2%20-%20funksjoner.ipynb'>2 - funksjoner.ipynb</a><br>
+* Funksjoner som returnerer flere variabler</td>	<td>Writing your own functions</td>	<td>Toolbox I</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/2%20-%20funksjoner.ipynb'>2 - funksjoner.ipynb</a><br>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td>37</td>	<td>3</td>	<td>Matplotlib</td>	<td>* Linjeplot<br>
 * Scatterplot<br>
@@ -60,7 +60,7 @@ th {
 * Etiketter<br>
 * Størrelser<br>
 * Farger<br>
-* Andre tilpasninger</td>	<td>Matplotlib</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/3%20-%20matplotlib.ipynb'>3 - matplotlib.ipynb</a><br>
+* Andre tilpasninger</td>	<td>Matplotlib</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/3%20-%20matplotlib.ipynb'>3 - matplotlib.ipynb</a><br>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td>38</td>	<td>4</td>	<td>Python lister</td>	<td>* Lage lister<br>
 * Lage lister med ulike typer<br>
@@ -69,7 +69,7 @@ th {
 * Manipulere lister<br>
 * Erstatte listeelementer<br>
 * Utvide en liste<br>
-* Kopiere en liste</td>	<td>Python Lists</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32/4%20-%20lister%2C%20oppslag%20og%20numpy.ipynb'>4 - lister.ipynb</a><br>
+* Kopiere en liste</td>	<td>Python Lists</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32/4%20-%20lister%2C%20oppslag%20og%20numpy.ipynb'>4 - lister.ipynb</a><br>
 </th>	<td></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td></td>	<td></td>	<td>Numpy</td>	<td>* Vektorer og matriser<br>
 * Velge elementer<br>
@@ -79,13 +79,13 @@ th {
 * Bruke sympy til å <br>
   - derivere <br>
   - finne maksimum<br>
-  -integrere</td>	<td></td>	<td></td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32//5%20-%20sympy.ipynb'>5 - tilbud og etterspørsel.ipynb</a><br>
+  -integrere</td>	<td></td>	<td></td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32//5%20-%20sympy.ipynb'>5 - tilbud og etterspørsel.ipynb</a><br>
 </th>	<td><a href= 'https://uit.instructure.com/courses/26947/files/folder/Seminar%205'>Oppg 15, 16, 17, 19, 20 og 21</a><br></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td>44</td>	<td>6</td>	<td>Oppslagsliste og Pandas</td>	<td>* Motivasjon for oppslagsliste (dictionary)<br>
 * Lage, bruke og manipulere en oppslagsliste<br>
 * Konvertere en oppslagsliste til Pandas DataFrame<br>
 * Velge data med hakeparentes<br>
-* Velge data med loc og iloc-funksjonene</td>	<td>Dictionaries & Pandas</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/6%20-%20Pandas%2C%20filtrering%2C%20logikk%20og%20betingelser.ipynb'>6 - oppslag og pandas.ipynb</a><br>
+* Velge data med loc og iloc-funksjonene</td>	<td>Dictionaries & Pandas</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/6%20-%20Pandas%2C%20filtrering%2C%20logikk%20og%20betingelser.ipynb'>6 - oppslag og pandas.ipynb</a><br>
 </th>	<td></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td></td>	<td></td>	<td>Logikk, filtrering og betingelser</td>	<td>* Boolske operatorer<br>
 * Sammenligne vektorer<br>
@@ -103,6 +103,6 @@ th {
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td></td>	<td></td>	<td>Simulering</td>	<td>* Tilfeldige tall<br>
 * Random walk<br>
-* Plot fordelingen</td>	<td>Case Study: Hacker Statistics</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32//7%20-%20l%C3%B8kker%20og%20simulering.ipynb'>7 - simulering.ipynb</a><br>
+* Plot fordelingen</td>	<td>Case Study: Hacker Statistics</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32//7%20-%20l%C3%B8kker%20og%20simulering.ipynb'>7 - simulering.ipynb</a><br>
 </th>	<td>Oppgave kommer</td>
 </tr></table>								
