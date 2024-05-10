@@ -79,7 +79,7 @@ th {
 * Bruke sympy til å <br>
   - derivere <br>
   - finne maksimum<br>
-  -integrere</td>	<td></td>	<td></td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32//5%20-%20sympy.ipynb'>5 - tilbud og etterspørsel.ipynb</a><br>
+  -integrere</td>	<td></td>	<td></td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/5%20-%20sympy.ipynb'>5 - tilbud og etterspørsel.ipynb</a><br>
 </th>	<td><a href= 'https://uit.instructure.com/courses/26947/files/folder/Seminar%205'>Oppg 15, 16, 17, 19, 20 og 21</a><br></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td>44</td>	<td>6</td>	<td>Oppslagsliste og Pandas</td>	<td>* Motivasjon for oppslagsliste (dictionary)<br>
 * Lage, bruke og manipulere en oppslagsliste<br>
