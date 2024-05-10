@@ -69,7 +69,7 @@ th {
 * Manipulere lister<br>
 * Erstatte listeelementer<br>
 * Utvide en liste<br>
-* Kopiere en liste</td>	<td>Python Lists</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32/4%20-%20lister%2C%20oppslag%20og%20numpy.ipynb'>4 - lister.ipynb</a><br>
+* Kopiere en liste</td>	<td>Python Lists</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/4%20-%20lister%2C%20oppslag%20og%20numpy.ipynb'>4 - lister.ipynb</a><br>
 </th>	<td></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td></td>	<td></td>	<td>Numpy</td>	<td>* Vektorer og matriser<br>
 * Velge elementer<br>
