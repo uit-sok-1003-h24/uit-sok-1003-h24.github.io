@@ -85,7 +85,7 @@ th {
 * Lage, bruke og manipulere en oppslagsliste<br>
 * Konvertere en oppslagsliste til Pandas DataFrame<br>
 * Velge data med hakeparentes<br>
-* Velge data med loc og iloc-funksjonene</td>	<td>Dictionaries & Pandas</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/6%20-%20Pandas%2C%20filtrering%2C%20logikk%20og%20betingelser.ipynb'>6 - oppslag og pandas.ipynb</a><br>
+* Velge data med loc og iloc-funksjonene</td>	<td>Dictionaries & Pandas</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/6%20-%20pandas%2C%20filtrering%2C%20logikk%20og%20betingelser.ipynb'>6 - oppslag og pandas.ipynb</a><br>
 </th>	<td></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td></td>	<td></td>	<td>Logikk, filtrering og betingelser</td>	<td>* Boolske operatorer<br>
 * Sammenligne vektorer<br>
@@ -103,6 +103,6 @@ th {
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td></td>	<td></td>	<td>Simulering</td>	<td>* Tilfeldige tall<br>
 * Random walk<br>
-* Plot fordelingen</td>	<td>Case Study: Hacker Statistics</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32//7%20-%20l%C3%B8kker%20og%20simulering.ipynb'>7 - simulering.ipynb</a><br>
+* Plot fordelingen</td>	<td>Case Study: Hacker Statistics</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/7%20-%20løkker%20og%20simulering.ipynb'>7 - simulering.ipynb</a><br>
 </th>	<td>Oppgave kommer</td>
 </tr></table>								
