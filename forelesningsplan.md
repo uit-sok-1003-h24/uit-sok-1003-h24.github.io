@@ -42,7 +42,7 @@ th {
 * Å sette variabler<br>
 * Ulike variabeltyper<br>
 * Konvertere variabeltype</td>	<td>Python Basics</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/1%20-%20introduksjon.ipynb'>1 - variabler.ipynb</a><br>
-</th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
+</th>	<td><a href='https://app.datacamp.com/groups/sok-1003-python-lab/dashboard'>DataCamp</a></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td>35</td>	<td>2</td>	<td>Funksjoner og pakker</td>	<td>* Funksjoner<br>
 * Hjelp til funksjoner<br>
 * Argumenter til funksjoner<br>
@@ -53,7 +53,7 @@ th {
 </tr><tr style='background-color: #f6f5ff;'> 	<td></td>	<td></td>	<td>Funksjoner</td>	<td>* Definere en enkel funksjon<br>
 * Funksjoner med flere argumenter<br>
 * Funksjoner som returnerer flere variabler</td>	<td>Writing your own functions</td>	<td>Toolbox I</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/2%20-%20funksjoner.ipynb'>2 - funksjoner.ipynb</a><br>
-</th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
+</th>	<td><a href='https://app.datacamp.com/groups/sok-1003-python-lab/dashboard'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td>37</td>	<td>3</td>	<td>Matplotlib</td>	<td>* Linjeplot<br>
 * Scatterplot<br>
 * Histogram<br>
@@ -61,7 +61,7 @@ th {
 * Størrelser<br>
 * Farger<br>
 * Andre tilpasninger</td>	<td>Matplotlib</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/3%20-%20matplotlib.ipynb'>3 - matplotlib.ipynb</a><br>
-</th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
+</th>	<td><a href='https://app.datacamp.com/groups/sok-1003-python-lab/dashboard'>DataCamp</a></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td>38</td>	<td>4</td>	<td>Python lister</td>	<td>* Lage lister<br>
 * Lage lister med ulike typer<br>
 * Lister av lister<br>
@@ -74,7 +74,7 @@ th {
 </tr><tr style='background-color: #f6f5ff;'> 	<td></td>	<td></td>	<td>Numpy</td>	<td>* Vektorer og matriser<br>
 * Velge elementer<br>
 * Enkel statistikk</td>	<td>Numpy</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h21/notebooks/blob/main/'></a><br>
-</th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
+</th>	<td><a href='https://app.datacamp.com/groups/sok-1003-python-lab/dashboard'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td>42</td>	<td>5</td>	<td>Sympy</td>	<td>* Bruke sympy til å løse ligninger<br>
 * Bruke sympy til å <br>
   - derivere <br>
@@ -92,7 +92,7 @@ th {
 * Numpy, boolske operatorer og filtrering<br>
 * Betingelser; if-else-elif<br>
 * Filtrere pandas DataFrame</td>	<td>Logic, Control Flow and Filtering</td>	<td>Intermediate Python</td>	<th>
-</th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
+</th>	<td><a href='https://app.datacamp.com/groups/sok-1003-python-lab/dashboard'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td>45</td>	<td>7</td>	<td>Løkker</td>	<td>* While-løkke<br>
 * Betingelser<br>
 * Løkker over lister<br>
@@ -100,7 +100,7 @@ th {
 * Løkker over lister av lister<br>
 * Løkker over DataFrame<br>
 * Legge til kollonne i DataFrame</td>	<td>Loops</td>	<td>Intermediate Python</td>	<th>
-</th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
+</th>	<td><a href='https://app.datacamp.com/groups/sok-1003-python-lab/dashboard'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td></td>	<td></td>	<td>Simulering</td>	<td>* Tilfeldige tall<br>
 * Random walk<br>
 * Plot fordelingen</td>	<td>Case Study: Hacker Statistics</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h24/notebooks/blob/main/7%20-%20løkker%20og%20simulering.ipynb'>7 - simulering.ipynb</a><br>
