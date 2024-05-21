@@ -1,4 +1,22 @@
 {% include navbar.html %}{% include top-box.html %}
+<style>
+table {
+  width:100%;
+  font-size: 11px;
+}
+table, th, td {
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+th {
+  border-bottom: 1px solid black;
+}
+</style>								
+<h2>SOK-1003 Python lab undervisningsplan</h2><br>								
+<p>Jupyter-notatene er under utvikling og blir endret fortløpende, men større endringer vil skje senest to uker før den tilhørende forelesningen. </p><br>
 |Uke	|#	|Tema	|Innhold	|Kapittel	|DataCamp	|Jupyter	|Innlevering|
 |---|---|---|---|---|---|---|---|
 |34	|0	|Komme i gang med python	|* Jupyter notebook<br>* Konsoll/script<br>* Installasjon av Python/Anaconda<br>* IDE<br>* Python grensesnitt	|||[0 - installasjon og tips](https://github.com/uit-sok-1003-h24/notebooks/blob/main/0%20-%20installasjon%20og%20tips.ipynb)||
