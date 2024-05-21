@@ -1,20 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-<style>
-table {
-  width:100%;
-  font-size: 11px;
-}
-table, th, td {
-  border-collapse: collapse;
-}
-th, td {
-  padding: 15px;
-  text-align: left;
-}
-th {
-  border-bottom: 1px solid black;
-}
-</style>								
+							
 <h2>SOK-1003 Python lab undervisningsplan</h2><br>								
 <p>Jupyter-notatene er under utvikling og blir endret fortløpende, men større endringer vil skje senest to uker før den tilhørende forelesningen. </p><br>
 |Uke	|#	|Tema	|Innhold	|Kapittel	|DataCamp	|Jupyter	|Innlevering|
