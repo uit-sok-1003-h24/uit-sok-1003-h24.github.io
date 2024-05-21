@@ -1,5 +1,4 @@
 {% include navbar.html %}{% include top-box.html %}
-
 |Uke	|#	|Tema	|Innhold	|Kapittel	|DataCamp	|Jupyter	|Innlevering|
 |---|---|---|---|---|---|---|---|
 |34	|0	|Komme i gang med python	|* Jupyter notebook<br>* Konsoll/script<br>* Installasjon av Python/Anaconda<br>* IDE<br>* Python grensesnitt	|||[0 - installasjon og tips](https://github.com/uit-sok-1003-h24/notebooks/blob/main/0%20-%20installasjon%20og%20tips.ipynb)||
