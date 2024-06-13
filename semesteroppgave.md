@@ -12,13 +12,16 @@ Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe) .
 
 Første innlevering av PDF'en i første mappeoppgave gjøres på canvas [her:]("insert canvas leveringslink")
 
-MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering "insert dato". Mappen skal likevel være i relativt ferdig form ved innleveringen "insert dato"0. 
+MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 17.10.2024 (kan komme endringer). Presentasjon av mappe 1 vil foregå mandag 21.10.2024 og onsdag 23.10.2024.
 
 ## Andre mappeoppgave 
-Skal leveres inn "insert dato", med presentasjon "insert dato" og "insert dato". Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
+Skal leveres inn 14.11.2024 (endringer kan komme), med presentasjon 18.11.2024 og 21.11.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
 
 Mappeoppgave 2 <a href='https://github.com/uit-sok-1003-h24/mappe2'> finner dere her</a>.
 
+## Innlevering av begge mappene
+Dere får muligheten til å endre både mappe 1 og mappe 2 etter tilbakemeldingene - med endelig leveringsfrist 29.11.2024 kl. 14.00. Innen fristen skal repositoriet deres være oppdatert, og levert på Wiseflow. 
+* Wiseflow og Github skal inneholde eventuelle datasett, Jupyterfil og pdf av mappe-besvarelsene.
 
 # Slik leverer du:
 Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som lastes opp til github og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
