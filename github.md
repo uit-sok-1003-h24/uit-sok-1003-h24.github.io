@@ -20,7 +20,7 @@ git config --global user.name "<brukernavn>"
 ## Gi tilgang til faglærer/seminarleder
 Du må også gi oss tilgang, slik at vi kan se repositoriet og arbeidet ditt. Det gjør du slik:
 
-Når du er på nettsiden til repositoriet, gåt til "Settings", og så "Manage access", og legg til "MarkusAase97" 
+Når du er på nettsiden til repositoriet, gå til "Settings", og så "Manage access", og legg til "MarkusAase97". 
  
 ## Dytte repositoriet til github:
 Dette gjør du ETTER at du har lagret en jupyter-fil i mappen til det klonede repositoriet. Sørg for at du lagrer i riktig mappe!
