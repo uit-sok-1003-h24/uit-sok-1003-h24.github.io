@@ -64,7 +64,7 @@ Karakter A-E, med F som stryk, fastsettes basert på et prosjekt som gjøres i g
 
 Merk at prosjektet leveres BÅDE i GitHub og på Wiseflow.
 
-Det er arrangeres ikke kontinuasjonseksamen på emnet.
+Det arrangeres ikke kontinuasjonseksamen på emnet.
 
 
 
