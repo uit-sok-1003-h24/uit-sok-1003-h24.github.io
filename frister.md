@@ -19,6 +19,6 @@
 |Arbeidskrav 7        | Løkker/Simulering  (Loops, Case Study: Hacker Statistics)| 16/11 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
 |Første innlevering mappe 2  |                       | 14/11 kl 1600   |[Canvas](Lag Canvas lenke!){:target="blank"} og github|
 |Presentasjon av mappe 2               |Presentasjon av prosjekt     | 18/11 & 21/11 |Publiseres senere   | 10-15 min presentasjon/gjennomgang av mappe |
-|Innlevering mappe 1 og 2 (dette er eksamensbesvarelsen og er karaktergivende)|                                              | 29/11 kl. 14.00    | [GitHub](https://github.com/uit-sok-1003-h24)/[Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}|
+|Innlevering mappe 1 og 2 |Dette er eksamensbesvarelsen og er karaktergivende! | 29/11 kl. 14.00    | [GitHub](https://github.com/uit-sok-1003-h24)/[Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}|
 
 
