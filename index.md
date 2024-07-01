@@ -14,9 +14,9 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng. Dette kurse
 
 [Markus Johnsen Aase](https://uit.no/ansatte/person?p_document_id=844489&p_dimension_id=88163){:target="blank"} (fagansvarlig). Kontor: 02.411
 
-xxx er (seminar/studenthjelp,<xxx@post.uit.no>)
+Jonas André Andersen er seminar/studenthjelp,<jan127@post.uit.no>
 
-xxx har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
+Jonas har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
 
 
 ## Pensum  
