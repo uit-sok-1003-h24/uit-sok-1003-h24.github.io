@@ -2,7 +2,7 @@
 
 # SOK-1003 Python lab undervisningsplan
 
-<p>Jupyter-notatene er under utvikling og blir endret fortløpende, men større endringer vil skje senest to uker før den tilhørende forelesningen.</p>
+<p>Jupyter-notatene er under utvikling og blir endret fortløpende, men større endringer vil skje senest to uker før den tilhørende forelesningen!</p>
 
 |Uke	|#	|Tema	|Innhold	|Kapittel	|DataCamp	|Jupyter	|Innlevering|
 |---|---|---|---|---|---|---|---|
