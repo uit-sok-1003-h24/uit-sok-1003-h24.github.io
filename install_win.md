@@ -3,10 +3,10 @@
 
 [Se video her!](https://mediasite.uit.no/Mediasite/Play/636342e259e441ffa5776b2ec3ebf29c1d)
 
-## 1. Installere python 3.8.10
+## 1. Installere python 3.12.4
 
-1. Gå til [installasjonssiden for Python 3.8.10](https://www.python.org/downloads/release/python-3810/){:target="blank"}
-3. Velg filen «Windows x86-64 executable installer»  
+1. Gå til [installasjonssiden for Python 3.12.4](https://www.python.org/downloads/release/python-3124/){:target="blank"}
+3. Velg filen «Windows installer (64-bit)»  
 4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
     
 (Jeg har endret litt på "oppskriften" etter at videoen ble spilt inn. Det er nå lenker direkte til installasjonsidene istedet for til Google)
