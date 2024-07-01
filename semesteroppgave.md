@@ -10,7 +10,7 @@ Skal leveres inn "insert dato", med presentasjon "insert dato to dager senere". 
 
 Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe) .
 
-Første innlevering av PDF'en i første mappeoppgave gjøres på canvas [her:]("insert canvas leveringslink")
+Første innlevering av pdf-filen til første mappeoppgave gjøres på canvas [her:]("insert canvas leveringslink")
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 17.10.2024 (kan komme endringer). Presentasjon av mappe 1 vil foregå mandag 21.10.2024 og onsdag 23.10.2024.
 
@@ -19,9 +19,14 @@ Skal leveres inn 14.11.2024 (endringer kan komme), med presentasjon 18.11.2024 o
 
 Mappeoppgave 2 <a href='https://github.com/uit-sok-1003-h24/mappe2'> finner dere her</a>.
 
+Første innlevering av pdf-filen til andre mappeoppgave gjøres på canvas her [her:]("insert canvas leveringslink"):
+
+MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024 (kan komme endringer). Presentasjon av mappe 1 vil foregå mandag 18.11.2024 og onsdag 21.11.2024.
+
 ## Innlevering av begge mappene
 Dere får muligheten til å endre både mappe 1 og mappe 2 etter tilbakemeldingene - med endelig leveringsfrist 29.11.2024 kl. 14.00. Innen fristen skal repositoriet deres være oppdatert, og levert på Wiseflow. 
-* Wiseflow og Github skal inneholde eventuelle datasett, Jupyterfil og pdf av mappe-besvarelsene.
+* Wiseflow og Github skal inneholde eventuelle datasett (f.eks. csv/xlsx-filer), Jupyterfil (.ipynb) og pdf av mappe-besvarelsene.
+* Det viktigste her, er at dere leverer alt som kreves for at koden deres kjører.
 
 # Slik leverer du:
 Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som lastes opp til github og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
