@@ -13,7 +13,7 @@ Gå til [https://www.python.org/downloads/](https://www.python.org/downloads/)
 ## 3. Installere Jupyter lab
 
 1. åpne kommandovinduet: Åpne finder og skriv "terminal" i søkefeltet og åne terminal. 
-2. Skriv inn "sodu -H pip3 install jupyterlab" ("sodu -H" er for å installere det som admin, slik at du kan åpne jupyter med kommandoen "jupyter")
+2. Skriv inn "sudo -H pip3 install jupyterlab" ("sudo -H" er for å installere det som admin, slik at du kan åpne jupyter med kommandoen "jupyter")
 3. Skriv inn passord
 
 ## 4. Hente kursmateriell fra github
