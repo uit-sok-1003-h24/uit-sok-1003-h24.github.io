@@ -6,7 +6,7 @@ Vurderingsformen i dette kurset er innlevering av to mappeoppgaver. Mappeoppgave
 Frister for innleveringer [finnes her](https://uit-sok-1003-h24.github.io/frister.html).
 
 ## Første mappeoppgave 
-Skal leveres inn "insert dato", med presentasjon "insert dato to dager senere". Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til markus.j.aase@uit.no   
+Skal leveres inn 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til markus.j.aase@uit.no   
 
 Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe) .
 
@@ -21,7 +21,7 @@ Mappeoppgave 2 <a href='https://github.com/uit-sok-1003-h24/mappe2'> finner dere
 
 Første innlevering av pdf-filen til andre mappeoppgave gjøres på canvas her [her:]("insert canvas leveringslink"):
 
-MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024 (kan komme endringer). Presentasjon av mappe 1 vil foregå mandag 18.11.2024 og onsdag 21.11.2024.
+MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024 (kan komme endringer). Presentasjon av mappe 2 vil foregå mandag 18.11.2024 og onsdag 21.11.2024.
 
 ## Innlevering av begge mappene
 Dere får muligheten til å endre både mappe 1 og mappe 2 etter tilbakemeldingene - med endelig leveringsfrist 29.11.2024 kl. 14.00. Innen fristen skal repositoriet deres være oppdatert, og levert på Wiseflow. 
