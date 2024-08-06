@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-<style> table { width:100%; font-size: 11px; } table, th, td { border-collapse: collapse; } th, td { padding: 15px; text-align: left; } th { border-bottom: 1px solid black; } </style>
+<style> table { width:100%; font-size: 9px; } table, th, td { border-collapse: collapse; } th, td { padding: 15px; text-align: left; } th { border-bottom: 1px solid black; } </style>
 # SOK-1003 Python lab undervisningsplan
 
 <p>Jupyter-notatene er under utvikling og blir endret fortløpende, men større endringer vil skje senest to uker før den tilhørende forelesningen!</p>
@@ -20,11 +20,11 @@
 |   |   |Logikk, filtrering og betingelser	|* Boolske operatorer<br>* Sammenligne vektorer<br>* Numpy, boolske operatorer og filtrering<br>* Betingelser; if-else-elif<br>* Filtrere pandas DataFrame	|Logic, Control Flow and Filtering	|Intermediate Python	||[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard)|
 |42	|7	|Løkker	|* While-løkke<br>* Betingelser<br>* Løkker over lister<br>* Indekser og verdier<br>* Løkker over lister av lister<br>* Løkker over DataFrame<br>* Legge til kollonne i DataFrame	|Loops	|Intermediate Python	|[7 - simulering.ipynb](https://github.com/uit-sok-1003-h24/notebooks/blob/main/7%20-%20løkker%20og%20simulering.ipynb)|[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard)|
 |   |   |Simulering	|* Tilfeldige tall<br>* Random walk<br>* Plot fordelingen	|Case Study: Hacker Statistics	|Intermediate Python	||Oppgave kommer|
-|43||Reserve|||||Presentasjon av mappe 1|
+|43||Mappepresentasjon|||||Presentasjon av mappe 1|
 |44||Reserve|Seminar|||||
 |45||Reserve|Seminar|||||
 |46||Reserve|Seminar|||||
-|47||Reserve|||||Presentasjon av mappe 2|
+|47||Mappepresentasjon|||||Presentasjon av mappe 2|
 |48|||||||Eksamensinnlevering 29.11.2024 (Wiseflow)|
 
 
