@@ -20,9 +20,9 @@
 |42	|7	|Løkker	|* While-løkke<br>* Betingelser<br>* Løkker over lister<br>* Indekser og verdier<br>* Løkker over lister av lister<br>* Løkker over DataFrame<br>* Legge til kollonne i DataFrame	|Loops	|Intermediate Python	|[7 - simulering.ipynb](https://github.com/uit-sok-1003-h24/notebooks/blob/main/7%20-%20løkker%20og%20simulering.ipynb)|[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard)|
 |   |   |Simulering	|* Tilfeldige tall<br>* Random walk<br>* Plot fordelingen	|Case Study: Hacker Statistics	|Intermediate Python	||Oppgave kommer|
 |43||Reserve|||||Presentasjon av mappe 1|
-|44||Reserve||||||
-|45||Reserve||||||
-|46||Reserve||||||
+|44||Reserve|Seminar|||||
+|45||Reserve|Seminar|||||
+|46||Reserve|Seminar|||||
 |47||Reserve|||||Presentasjon av mappe 2|
 |48|||||||Eksamensinnlevering 29.11.2024 (Wiseflow)|
 
