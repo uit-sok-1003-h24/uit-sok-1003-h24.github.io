@@ -6,7 +6,7 @@
 
 |Uke	|#	|Tema	|Innhold	|Kapittel	|DataCamp	|Jupyter	|Innlevering|
 |---|---|---|---|---|---|---|---|
-|34	|1	|Komme i gang med python	|* Jupyter notebook<br>* Konsoll/script<br>* Installasjon av Python/Anaconda<br>* IDE<br>* Python grensesnitt	|||[0 - installasjon og tips](https://github.com/uit-sok-1003-h24/notebooks/blob/main/0%20-%20installasjon%20og%20tips.ipynb)||
+|34	|0	|Komme i gang med python	|* Jupyter notebook<br>* Konsoll/script<br>* Installasjon av Python/Anaconda<br>* IDE<br>* Python grensesnitt	|||[0 - installasjon og tips](https://github.com/uit-sok-1003-h24/notebooks/blob/main/0%20-%20installasjon%20og%20tips.ipynb)||
 |34 |1   |Grunnleggende programmering	|* Kommentarer<br>* Utregning<br>* Variabler og typer<br>* Å sette variabler<br>* Ulike variabeltyper<br>* Konvertere variabeltype	|Python Basics	|Introduction to Python	|[1 - variabler.ipynb](https://github.com/uit-sok-1003-h24/notebooks/blob/main/1%20-%20introduksjon.ipynb)|[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard)|
 |35	|2	|Funksjoner og pakker	|* Funksjoner<br>* Hjelp til funksjoner<br>* Argumenter til funksjoner<br>* Metoder<br>* Importere pakker	|Functions and Packages	|Introduction to Python	|||
 |   |   |Funksjoner	|* Definere en enkel funksjon<br>* Funksjoner med flere argumenter<br>* Funksjoner som returnerer flere variabler	|Writing your own functions	|Toolbox I	|[2 - funksjoner.ipynb](https://github.com/uit-sok-1003-h24/notebooks/blob/main/2%20-%20funksjoner.ipynb)|[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard)|
