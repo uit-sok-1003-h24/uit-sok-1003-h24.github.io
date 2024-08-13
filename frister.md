@@ -1,9 +1,10 @@
 {% include navbar_open.html %}
 ## Frister for arbeidskrav og mappe
 
-- Arbeidskrav er obligatoriske. Karakter settes ikke på disse.
+- Arbeidskrav er obligatoriske. Karakter settes ikke på disse, bare godkjent/ikke-godkjent. Alle arbeidskrav må være godkjent for å gå opp til eksamen.
 - Mappeoppgaver er obligatoriske, og danner grunnlag for karakter A-F på kurset.
-- Mappe 1 leveres 17/10, men kan endres på frem til eksamensbesvarelsen (både mappe 1 og mappe 2) innleveres. Det forutsettes at Mappe 1 er i hovedsak ferdig ved første innlevering.  
+- Mappe 1 leveres 17/10, men kan endres på frem til eksamensbesvarelsen (både mappe 1 og mappe 2) innleveres. Det forutsettes at Mappe 1 er i hovedsak ferdig ved første innlevering.
+- Mappe 2 leveres 14/11, men kan endres på frem til eksamensbesvarelsen (både mappe 1 og mappe 2) innleveres. Det forutsettes at Mappe 2 er i hovedsak ferdig ved første innlevering.
 
 
 |Navn <img width=120/>|  Tema <img width=300/>       | Når/Frist  | Hvor?|  Kommentar|
