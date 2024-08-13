@@ -2,7 +2,7 @@
 ## Seminarer
 
 
-<p>Seminarene vil dreie seg om gjennomgang av arbeidskravene og eventuelle spørsmål om forrige forelesning. Lenke til Datacamp hvor du finner oppgavene <a href='https://app.datacamp.com/groups/sok-1003-python-lab/dashboard'> finnes her </a>. Trykk deg inn på oppgaven som samsvarer med temaet til seminaret (se tabell under). Se forøvrig <a href='https://uit-sok-1003-h24.github.io/frister.html'> forelesningsplanen </a> for frister og annen informasjon. </p> <br>
+<p>Seminarene vil dreie seg om gjennomgang av arbeidskravene og eventuelle spørsmål om forrige forelesning. Lenke til Datacamp hvor du finner oppgavene <a href='https://app.datacamp.com/groups/sok-1003-python-lab/dashboard'> finnes her </a>. Trykk deg inn på oppgaven som samsvarer med temaet til seminaret (se tabell under). Se forøvrig <a href='https://uit-sok-1003-h24.github.io/frister.html'> forelesningsplanen</a> for frister og annen informasjon. </p> <br>
 
 <p> <b> NB: for å få tilgang til datacamp må du først lage deg en profil med UiT epost og deretter bruke <a href='https://www.datacamp.com/groups/shared_links/a13a95373bb12955cb3aff63ab04099ee5954163660ced797b38d43ba904fb21'> denne invitasjonslenken </a>.</b> </p> NB: Rop ut om linken ikke fungerer!
 
