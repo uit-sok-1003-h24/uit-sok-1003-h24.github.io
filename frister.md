@@ -10,7 +10,7 @@
 |---------------------|----------------------------------------------------|-------------------|-------------------------|-----|
 |Arbeidskrav 1        | Komme i gang/Grunnleggende programmering           | 14/09 kl. 16.00     |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
 |Arbeidskrav 2        | Funksjoner                                         | 14/09 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
-|Arbeidskrav 3        | Matplotlib                                         | 22/09 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
+|Arbeidskrav 3        | Matplotlib                                         | 25/09 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
 |Arbeidskrav 4        | Iterable objekter (NumPy, Lists)                    | 6/10 kl 16.00    |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
 |Første innlevering mappe 1  |                       | 17/10 kl 1600   |[Canvas](Lag Canvas lenke!){:target="blank"} og github|
 |Presentasjon mappe 1 | Presentasjon m/tilbakemelding                      | 21/10 & 23/10    |Publiseres senere |10-15 min presentasjon/gjennomgang av mappe|
