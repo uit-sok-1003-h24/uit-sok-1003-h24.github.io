@@ -9,7 +9,7 @@
 
 |Navn <img width=120/>|  Tema <img width=300/>       | Når/Frist  | Hvor?|  Kommentar|
 |---------------------|----------------------------------------------------|-------------------|-------------------------|-----|
-|Arbeidskrav 1        | Komme i gang/Grunnleggende programmering           | 14/09 kl. 16.00     |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
+|Arbeidskrav 1        | Komme i gang/Grunnleggende programmering           | 14/09 kl. 16.00     |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|Læringsstiene i DataCamp finnes under 'Learn' --> 'Assignments' på venstre siden av linken.|
 |Arbeidskrav 2        | Funksjoner                                         | 14/09 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
 |Arbeidskrav 3        | Matplotlib                                         | 25/09 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
 |Arbeidskrav 4        | Iterable objekter (NumPy, Lists)                    | 6/10 kl 16.00    |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
