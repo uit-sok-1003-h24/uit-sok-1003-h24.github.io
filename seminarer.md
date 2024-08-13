@@ -11,9 +11,9 @@
 | <img width=120/>|  Tema <img width=600/>       |       Innleveringsfrist for tilhørende arbeidskrav        |
 |-----------------|------------------------------|---------------|
 |Seminar 1        |DataCamp: Python Basics<br> DataCamp: Functions and Packages <br> DataCamp: Writing your own functions| 14/09 kl. 16:00 |
-|Seminar 2        |DataCamp: Matplotlib| 22/09 kl. 16:00 |
+|Seminar 2        |DataCamp: Matplotlib| 25/09 kl. 16:00 |
 |Seminar 3        |DataCamp: Python Lists <br> Datacamp: Numpy| 6/10 kl. 16:00 |
-|Seminar 4        |[Oppgaver (vedlegg)](https://github.com/uit-sok-1003-h24/uit-sok-1003-h24.github.io/tree/main/seminar4) | 4/11 kl. 16:00|
-|Seminar 5        |Datacamp: Dictionaries & Pandas <br>Datacamp: Logic, Control Flow and Filtering| 4/11 kl. 16:00 |
-|Seminar 6        |Datacamp: Loops<br> Datacamp: Case Study: Hacker Statistics| 14/11 kl. 16:00|
+|Seminar 4        |[Oppgaver (vedlegg)](https://github.com/uit-sok-1003-h24/uit-sok-1003-h24.github.io/tree/main/seminar4) | 2/11 kl. 16:00|
+|Seminar 5        |Datacamp: Dictionaries & Pandas <br>Datacamp: Logic, Control Flow and Filtering| 09/11 kl. 16:00 |
+|Seminar 6        |Datacamp: Loops<br> Datacamp: Case Study: Hacker Statistics| 16/11 kl. 16:00|
 
