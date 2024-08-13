@@ -32,7 +32,7 @@ Dere får muligheten til å endre både mappe 1 og mappe 2 etter tilbakemeldinge
 Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som lastes opp til github og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
 
 - Wiselow: På wiseflow vil hver mappeoppgave ha en egen "flow". Her leverer en person per gruppe. Denne personen må likevel invitere andre gruppemedlemmer med som deltakere. 
-- Github: en person per mappe, per gruppe, gir tilging til faglærer ("MarkusAase97"). Hvis dere har satt reposetoriet til public (anbefales ikke), må dere dele lenken til dette på markus.j.aase@uit.no
+- Github: en person per mappe, per gruppe, gir tilgang til faglærer (GitHub: "MarkusAase97"). Hvis dere har satt reposetoriet til public (anbefales ikke), må dere dele lenken til dette på markus.j.aase@uit.no
 
 [Se her](https://uit-sok-1003-h24.github.io/github.html) for å lese mer om hvordan man leverer på github
 
