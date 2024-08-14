@@ -13,6 +13,6 @@
 |Seminar 1        |DataCamp: Python Basics<br> DataCamp: Functions and Packages <br> DataCamp: Writing your own functions| 14/09 kl. 16:00 |
 |Seminar 2        |DataCamp: Matplotlib| 25/09 kl. 16:00 |
 |Seminar 3        |DataCamp: Python Lists <br> Datacamp: Numpy| 6/10 kl. 16:00 |
-|Seminar 4        |[Oppgaver (vedlegg)](https://github.com/uit-sok-1003-h24/uit-sok-1003-h24.github.io/tree/main/seminar4) | 29/10 kl. 16:00 (GitHub)|
+|Seminar 4        |[Oppgaver (vedlegg)](https://github.com/uit-sok-1003-h24/uit-sok-1003-h24.github.io/tree/main/seminar4): SymPy (leveres på GitHub) | 29/10 kl. 16:00 (GitHub)|
 |Seminar 5        |DataCamp: Dictionaries & Pandas <br>DataCamp: Logic, Control Flow and Filtering| 04/11 kl. 16:00 |
 |Seminar 6        |DataCamp: Loops<br> DataCamp: Case Study: Hacker Statistics| 11/11 kl. 16:00|
