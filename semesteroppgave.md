@@ -10,7 +10,7 @@ Skal leveres inn 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Prese
 
 Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe) .
 
-Første innlevering av pdf-filen til første mappeoppgave gjøres på canvas [her:](["insert canvas leveringslink"](https://uit.instructure.com/courses/35385/assignments/115881))
+Første innlevering av pdf-filen til første mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115881))
 
 OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
@@ -21,7 +21,7 @@ Skal leveres inn 14.11.2024 (endringer kan komme), med presentasjon 18.11.2024 o
 
 Mappeoppgave 2 <a href='https://github.com/uit-sok-1003-h24/mappe2'> finner dere her</a>.
 
-Første innlevering av pdf-filen til andre mappeoppgave gjøres på canvas her [her:](["insert canvas leveringslink"](https://uit.instructure.com/courses/35385/assignments/115882))
+Første innlevering av pdf-filen til andre mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115882))
 
 OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
@@ -30,23 +30,24 @@ MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endel
 ## Innlevering av begge mappene
 Dere får muligheten til å endre både mappe 1 og mappe 2 etter tilbakemeldingene - med endelig leveringsfrist 29.11.2024 kl. 14.00. Innen fristen skal repositoriet deres være oppdatert, og levert på Wiseflow. 
 * Wiseflow og Github skal inneholde eventuelle datasett (f.eks. csv/xlsx-filer), Jupyterfil (.ipynb) og pdf av mappe-besvarelsene.
+* GitHub skal være et repositorie med alle filer, WiseFlow skal være .zip-fil med alt innhold for å kjøre mappe 1 og mappe 2 i Jupyter.
 * Det viktigste her, er at dere leverer alt som kreves for at koden deres kjører.
 
 # Slik leverer du:
-Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som lastes opp til github og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
+Hver mappeoppgave leveres som et Jupyter-prosjekt (ipynb-fil), som lastes opp til GitHub og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres .zip-fil av notatboken + datasett/vedlegg. 
 
-- Wiselow: På wiseflow vil hver mappeoppgave ha en egen "flow". Her leverer en person per gruppe. Denne personen må likevel invitere andre gruppemedlemmer med som deltakere. 
-- Github: en person per mappe, per gruppe, gir tilgang til faglærer (GitHub: "MarkusAase97"). Hvis dere har satt reposetoriet til public (anbefales ikke), må dere dele lenken til dette på markus.j.aase@uit.no
+- Wiseflow: På wiseflow vil hver mappeoppgave ha en egen "flow". Her leverer en person per gruppe - altså én .zip-fil per mappe. Denne personen $\textbf{må}$ likevel invitere andre gruppemedlemmer med som deltakere. 
+- GitHub: en person per mappe, per gruppe, gir tilgang til faglærer (GitHub: "MarkusAase97"). Hvis dere har satt reposetoriet til public (anbefales ikke), må dere dele lenken til dette på markus.j.aase@uit.no
 
 [Se her](https://uit-sok-1003-h24.github.io/github.html) for å lese mer om hvordan man leverer på github
 
-Dere kan levere i grupper på opptil 3 personer. Registrer medlemmer av gruppen deres ved å sende mail til markus.j.aase@uit.no med informasjon om gruppemedlemmer, og navngi emnefeltet i mailen "GRUPPE SOK-1003".
+Dere kan levere i grupper på opptil 3 personer. Registrer medlemmer av gruppen deres ved å sende mail til markus.j.aase@uit.no med informasjon om gruppemedlemmer, og navngi emnefeltet i mailen "GRUPPE SOK-1003" - innen 07/10/2024!
 
 ### For mappe 1
-Bruk følgende navn: SOK-1003-eksamen-2024-mappe1. 
+Bruk følgende navn til GitHub repositorie: SOK-1003-eksamen-2024-mappe1
 
 ### For mappe 2
-Bruk følgende navn: SOK-1003-eksamen-2024-mappe2
+Bruk følgende navn til GitHub repositorie: SOK-1003-eksamen-2024-mappe2
 
 # Skriftlig vurdering
 Karakter gis ut fra følgende tre kriterier: 
