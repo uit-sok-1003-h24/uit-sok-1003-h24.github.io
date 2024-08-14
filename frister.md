@@ -13,12 +13,12 @@
 |Arbeidskrav 2        | Funksjoner                                         | 14/09 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
 |Arbeidskrav 3        | Matplotlib                                         | 25/09 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
 |Arbeidskrav 4        | Iterable objekter (NumPy, Lists)                    | 6/10 kl 16.00    |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
-|Første innlevering mappe 1  |                       | 17/10 kl 1600   |[Canvas](https://uit.instructure.com/courses/35385/assignments/115881) & Github|Canvas (lever pdf), GitHub (ipynb, datasett, vedlegg) i et repositorie med følgende navn: SOK-1003-eksamen-2024-mappe1|
+|Første innlevering mappe 1  |Første semesteroppgave                       | 17/10 kl 1600   |[Canvas](https://uit.instructure.com/courses/35385/assignments/115881) & Github|Canvas (lever pdf), GitHub (ipynb, datasett, vedlegg) i et repositorie med følgende navn: SOK-1003-eksamen-2024-mappe1|
 |Presentasjon mappe 1 | Presentasjon m/tilbakemelding                      | 21/10 & 23/10    |Publiseres senere |10-15 min presentasjon/gjennomgang av mappe|
 |Arbeidskrav 5        | Sympy ([Se arbeidskrav nederst i forelesningsnotat](https://github.com/uit-sok-1003-h24/notebooks/blob/main/5%20-%20sympy.ipynb)                                               | 29/10 kl. 16.00   |[Canvas](https://uit.instructure.com/courses/35385/assignments)|
 |Arbeidskrav 6        | Oppslag, Pandas, logikk, filtrering og betingelser <br>(Dictionaries & Pandas,Logic, Control Flow and Filtering)  | 04/11 kl. 16.00   |[DataCamp](https://learn.datacamp.com/){:target="blank"}|
 |Arbeidskrav 7        | Løkker/Simulering  (Loops, Case Study: Hacker Statistics)| 11/11 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
-|Første innlevering mappe 2  |                       | 14/11 kl 1600   |[Canvas](https://uit.instructure.com/courses/35385/assignments/115882){:target="blank"} & GitHub|Canvas (lever pdf), GitHub (ipynb, datasett, vedlegg) i et repositorie med følgende navn: SOK-1003-eksamen-2024-mappe2|
+|Første innlevering mappe 2  |Andre semesteroppgave                       | 14/11 kl 1600   |[Canvas](https://uit.instructure.com/courses/35385/assignments/115882){:target="blank"} & GitHub|Canvas (lever pdf), GitHub (ipynb, datasett, vedlegg) i et repositorie med følgende navn: SOK-1003-eksamen-2024-mappe2|
 |Presentasjon av mappe 2               |Presentasjon av prosjekt     | 18/11 & 21/11 |Publiseres senere   | 10-15 min presentasjon/gjennomgang av mappe |
 |Innlevering mappe 1 og 2 |Dette er eksamensbesvarelsen og er karaktergivende! | 29/11 kl. 14.00    | [GitHub](https://github.com/uit-sok-1003-h24)/[Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}|
 
