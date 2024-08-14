@@ -10,7 +10,9 @@ Skal leveres inn 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Prese
 
 Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe) .
 
-Første innlevering av pdf-filen til første mappeoppgave gjøres på canvas [her:]("insert canvas leveringslink")
+Første innlevering av pdf-filen til første mappeoppgave gjøres på canvas [her:](["insert canvas leveringslink"](https://uit.instructure.com/courses/35385/assignments/115881))
+
+OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 17.10.2024 (kan komme endringer). Presentasjon av mappe 1 vil foregå mandag 21.10.2024 og onsdag 23.10.2024.
 
@@ -19,7 +21,9 @@ Skal leveres inn 14.11.2024 (endringer kan komme), med presentasjon 18.11.2024 o
 
 Mappeoppgave 2 <a href='https://github.com/uit-sok-1003-h24/mappe2'> finner dere her</a>.
 
-Første innlevering av pdf-filen til andre mappeoppgave gjøres på canvas her [her:]("insert canvas leveringslink"):
+Første innlevering av pdf-filen til andre mappeoppgave gjøres på canvas her [her:](["insert canvas leveringslink"](https://uit.instructure.com/courses/35385/assignments/115882))
+
+OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024 (kan komme endringer). Presentasjon av mappe 2 vil foregå mandag 18.11.2024 og onsdag 21.11.2024.
 
