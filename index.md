@@ -16,7 +16,7 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng. Dette kurse
 
 Jonas André Andersen er seminar/studenthjelp, <jan127@post.uit.no>
 
-Jonas har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
+Jonas har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Kontortid er felles for sok-1003 og sok-1004, se timeplan for sok-1004 for når kontortid er. 
 
 
 ## Pensum  
