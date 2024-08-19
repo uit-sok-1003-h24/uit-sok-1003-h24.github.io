@@ -35,4 +35,14 @@ git push
 ```
 Om du gjør endringer, og skal oppdatere repositoriet senere, kjører du samme prosedyre som over, men du kan endre teksten "New repository" til noe som beskriver oppdateringen.  
 
- 
+## Alternativ manuell løsning:
+Hvis du sliter med å kjøre ting via terminal til repositorie kan dere følge følgende oppskrift:
+1. Logg inn på dere egen bruker på [GitHub](github.com). 
+2. Lag et repositorie, som f.eks. heter 'SOK-1003-eksamen-2024-mappe1' (mappe 1 innleveringen). (NB: Lurt å ha dette privat!)
+3. Inne i repositorie, velg **Settings** og deretter **Collaborators and teams**.
+4. Her gir du tilgang til følgende:
+    - Dine gruppemedlemmer for mappe-oppgavene.
+    - Fagansvarlig: 'MarkusAase97'
+    - Læringsassistent: 'Jonazza'
+5. Inne i repositorie kan du laste opp filer, som NoteBook'en (.ipynb fil), datasett (csv/xlsx) og eventuelle vedlegg.
+6. Du laster opp ved å velge **Add file** og deretter **Upload files**. 
