@@ -10,8 +10,8 @@ Skal leveres inn 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Prese
 
 Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe) .
 
-Første innlevering av pdf-filen til første mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115881))
-Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-2024-mappe1**
+* Første innlevering av pdf-filen til første mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115881))
+* Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-2024-mappe1**
 
 OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
@@ -22,8 +22,8 @@ Skal leveres inn 14.11.2024 (endringer kan komme), med presentasjon 18.11.2024 o
 
 Mappeoppgave 2 <a href='https://github.com/uit-sok-1003-h24/mappe2'> finner dere her</a>.
 
-Første innlevering av pdf-filen til andre mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115882))
-Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-2024-mappe2**
+* Første innlevering av pdf-filen til andre mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115882))
+* Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-2024-mappe2**
 
 OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
