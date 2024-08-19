@@ -46,3 +46,4 @@ Hvis du sliter med å kjøre ting via terminal til repositorie kan dere følge f
     - Læringsassistent: 'Jonazza'
 5. Inne i repositorie kan du laste opp filer, som NoteBook'en (.ipynb fil), datasett (csv/xlsx) og eventuelle vedlegg.
 6. Du laster opp ved å velge **Add file** og deretter **Upload files**. 
+Oppdatering skjer ved å laste opp ny fil, og slette den forrige. Eller bruke git-kommandoer som nevnt over (push/add/commit) for å endre.
