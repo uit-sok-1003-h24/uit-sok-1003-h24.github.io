@@ -3,9 +3,9 @@
 
 [Se video her!](https://mediasite.uit.no/Mediasite/Play/636342e259e441ffa5776b2ec3ebf29c1d)
 
-## 1. Installere python 3.12.4
+## 1. Installere python 3.12.5
 
-1. Gå til [installasjonssiden for Python 3.12.4](https://www.python.org/downloads/release/python-3124/){:target="blank"}
+1. Gå til [installasjonssiden for Python 3.12.5](https://www.python.org/downloads/windows/){:target="blank"}
 3. Velg filen «Windows installer (64-bit)»  
 4. Installer for alle brukere (krever elevering/admin login) og **hak av for å legge til "PATH"**. 
     
