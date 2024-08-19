@@ -8,7 +8,7 @@ Frister for innleveringer [finnes her](https://uit-sok-1003-h24.github.io/friste
 ## Første mappeoppgave 
 Skal leveres inn 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til markus.j.aase@uit.no   
 
-Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe) .
+Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 
 * Første innlevering av pdf-filen til første mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115881))
 * Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-2024-mappe1**
@@ -20,7 +20,7 @@ MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endel
 ## Andre mappeoppgave 
 Skal leveres inn 14.11.2024 (endringer kan komme), med presentasjon 18.11.2024 og 21.11.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
 
-Mappeoppgave 2 <a href='https://github.com/uit-sok-1003-h24/mappe2'> finner dere her</a>.
+Mappeoppgave 2 finner dere [her](https://github.com/uit-sok-1003-h24/mappe2)
 
 * Første innlevering av pdf-filen til andre mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115882))
 * Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-2024-mappe2**
