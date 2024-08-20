@@ -20,6 +20,6 @@
 |Arbeidskrav 7        | Løkker/Simulering  (Loops, Case Study: Hacker Statistics)| 11/11 kl. 16.00   |[DataCamp](https://app.datacamp.com/groups/sok-1003-python-lab/dashboard){:target="blank"}|
 |Første innlevering mappe 2  |Andre semesteroppgave                       | 14/11 kl 1600   |[Canvas](https://uit.instructure.com/courses/35385/assignments/115882){:target="blank"} & GitHub|Canvas (lever pdf), GitHub (ipynb, datasett, vedlegg) i et repositorie med følgende navn: SOK-1003-eksamen-2024-mappe2|
 |Presentasjon av mappe 2               |Presentasjon av prosjekt     | 18/11 & 21/11 |Publiseres senere   | 10-15 min presentasjon/gjennomgang av mappe |
-|Innlevering mappe 1 og 2 |Dette er eksamensbesvarelsen og er karaktergivende! | 29/11 kl. 14.00    | [GitHub](https://github.com/uit-sok-1003-h24)/[Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}|
+|Innlevering mappe 1 og 2 |Dette er eksamensbesvarelsen og er karaktergivende! | 29/11 kl. 14.00    | [GitHub](https://github.com/uit-sok-1003-h24)/[Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}|Dette vil få karakter A-F|
 
 
