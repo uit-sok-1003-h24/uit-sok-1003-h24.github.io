@@ -41,10 +41,8 @@ Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjenno
 ## Forelesninger/undervisning
 
 Det gjøres ikke opptak av forelesninger for dette semesteret. 
-  
-Under forelesning vil et zoom-rom være åpent hvis det er spørsmål noen ikke ønsker å ta i plenum.
 
-- [Zoom-rom (for spørsmål og tilbakemeldinger)](https://uit.zoom.us/j/7036118194?pwd=Umxlb1VFOXRaa3dDSUdaTzNUbTYrUT09) #endringer vil skje her!
+Oppfordrer til oppmøte her, for å skape et faglig og sosialt fellesskap.
 
 ## Kunngjøringer  
 
