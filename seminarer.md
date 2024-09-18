@@ -10,7 +10,7 @@
 
 | <img width=120/>|  Tema <img width=600/>       |       Innleveringsfrist for tilhørende arbeidskrav        |
 |-----------------|------------------------------|---------------|
-|Seminar 1        |DataCamp: Python Basics<br> DataCamp: Functions and Packages <br> DataCamp: Writing your own functions <br> [Ekstra-oppgaver (anbefales)](https://github.com/uit-sok-1003-h24/uit-sok-1003-h24.github.io/blob/main/seminaroppgaver/Seminar2_SOK1003.ipynb)| 14/09 kl. 16:00 |
+|Seminar 1        |DataCamp: Python Basics<br> DataCamp: Functions and Packages <br> DataCamp: Writing your own functions <br> [Ekstra-oppgaver (anbefales)](https://github.com/uit-sok-1003-h24/uit-sok-1003-h24.github.io/blob/main/seminaroppgaver/Seminar2_SOK1003.ipynb) <br> [Ekstra-oppgaver (løsningsforslag)](https://github.com/uit-sok-1003-h24/uit-sok-1003-h24.github.io/blob/main/seminaroppgaver/Seminar2_SOK1003-LF.ipynb)| 14/09 kl. 16:00 |
 |Seminar 2        |DataCamp: Matplotlib| 25/09 kl. 16:00 |
 |Seminar 3        |DataCamp: Python Lists <br> Datacamp: Numpy| 6/10 kl. 16:00 |
 |Seminar 4        |[Oppgaver (vedlegg)](https://github.com/uit-sok-1003-h24/uit-sok-1003-h24.github.io/tree/main/seminar4): SymPy (leveres på Canvas) | 29/10 kl. 16:00 [Innleveringslenke](https://uit.instructure.com/courses/35385/assignments/118354)|
