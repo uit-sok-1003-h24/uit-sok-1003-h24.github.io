@@ -1,7 +1,7 @@
 {% include navbar_open.html %}
 
 # Mappeinnleveringer/eksamen
-Vurderingsformen i dette kurset er innlevering av to mappeoppgaver. Mappeoppgavene vil omhandle tema som gjennomgås i dette kurset. For hver mappeoppgave vil studentene presentere mappen. Dette er arbeidskrav. Studentene vil da få hint/kommentarer på oppgaven og deretter ha mulighet til å gjøre endringer før endelig innlevering. 
+Vurderingsformen i dette kurset er innlevering av to mappeoppgaver. Mappeoppgavene vil omhandle tema som gjennomgås i dette kurset. For hver mappeoppgave vil studentene presentere mappen. Dette er arbeidskrav (godkjent/ikke-godkjent). Studentene vil da få hint/kommentarer på oppgaven og deretter ha mulighet til å gjøre endringer før endelig innlevering. 
 
 Frister for innleveringer [finnes her](https://uit-sok-1003-h24.github.io/frister.html).
 
