@@ -6,43 +6,43 @@ Vurderingsformen i dette kurset er innlevering av to mappeoppgaver. Mappeoppgave
 Frister for innleveringer [finnes her](https://uit-sok-1003-h24.github.io/frister.html).
 
 ## Første mappeoppgave 
-Skal leveres inn 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til markus.j.aase@uit.no   
+Skal leveres innen 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til markus.j.aase@uit.no   
 
 Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 
 * Første innlevering av pdf-filen til første mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115881))
-* Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-H24**
+* Mappe 1 skal **også** leveres på GitHub. Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-H24**
 * Navnet på repositorie må være eksakt likt for at innleveringen registreres!
 * Sett repositorie til privat, så kan ikke andre grupper snoke i ditt/din gruppes repositorie. Dette er fordi da får vi fort plagiat og fuskesaker.
 
 OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
-MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 17.10.2024 (kan komme endringer). Presentasjon av mappe 1 vil foregå mandag 21.10.2024 og onsdag 23.10.2024.
+MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 17.10.2024 (for å få godkjent arbeidskravet).
 
 ## Andre mappeoppgave 
-Skal leveres inn 14.11.2024 (endringer kan komme), med presentasjon 18.11.2024 og 21.11.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
+Skal leveres innen 14.11.2024, med presentasjon 18.11.2024 og 21.11.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
 
 Mappeoppgave 2 finner dere [her](https://github.com/uit-sok-1003-h24/mappe2)
 
 * Første innlevering av pdf-filen til andre mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115882))
-* Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-H24** (samme repositorie som mappe 1!)
+* Mappe 2 skal **også** leveres på GitHub. Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-H24** (samme repositorie som mappe 1!)
 
 OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
-MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024 (kan komme endringer). Presentasjon av mappe 2 vil foregå mandag 18.11.2024 og onsdag 21.11.2024.
+MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024.
 
-## Endelig innlevering på Wiseflow
+## Endelig innlevering på Wiseflow og Github
 Dere får muligheten til å endre både mappe 1 og mappe 2 etter tilbakemeldingene - med endelig leveringsfrist 29.11.2024 kl. 14.00. Innen fristen **skal** repositoriet deres være oppdatert, og levert på Wiseflow. 
-* Wiseflow og Github skal inneholde eventuelle datasett (f.eks. csv/xlsx-filer), Jupyterfil (.ipynb) og eventuelle vedlegg fra mappe-besvarelsene.
-* GitHub skal være et repositorie (**SOK-1003-H24**, samme som for mappe 1 og mappe 2) med alle filene.
+* Wiseflow og Github skal inneholde eventuelle datasett (f.eks. csv/xlsx-filer), Jupyterfiler (.ipynb fil, en for mappe 1 og en for mappe 2) og eventuelle vedlegg fra mappe-besvarelsene.
+* GitHub skal være et repositorie (**SOK-1003-eksamen-H24**, samme som for mappe 1 og mappe 2) med alle filene.
 * WiseFlow skal være .zip-fil med alt innhold som kreves for å kjøre mappe 1 og mappe 2 i Jupyter. Her er det enkleste å lage en zip-fil med alt innhold fra repositoriet deres, så får dere med alt som trengs.
 * Det viktigste her, er at dere leverer **alt** som kreves for at sensor kan kjøre koden deres.
 
 # Slik leverer du:
-Hver mappeoppgave leveres som et Jupyter-prosjekt (ipynb-fil), som lastes opp til GitHub og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres .zip-fil av notatboken (ipynb-filen) + datasett/vedlegg. 
+Hver mappeoppgave leveres som et Jupyter-prosjekt (ipynb-fil), sammen med eventuelle vedlegg/datasett, som lastes opp til GitHub Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres en .zip-fil av notatboken (ipynb-filen) + datasett/vedlegg. 
 
 - Wiseflow: På wiseflow vil hver mappeoppgave ha en egen "flow". Her leverer en person per gruppe - altså én .zip-fil per mappe. Denne personen $\textbf{må}$ likevel invitere andre gruppemedlemmer med som deltakere. 
-- GitHub: en person per mappe, per gruppe, gir tilgang til faglærer (GitHub: "MarkusAase97").
+- GitHub: en person per mappe, per gruppe, gir faglærer (GitHub: "MarkusAase97") tilgang til repositorie deres (**SOK-1003-eksamen-H24**).
 
 [Se her](https://uit-sok-1003-h24.github.io/github.html) for å lese mer om hvordan man leverer på github.
 
