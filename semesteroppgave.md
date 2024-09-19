@@ -26,6 +26,7 @@ Mappeoppgave 2 finner dere [her](https://github.com/uit-sok-1003-h24/mappe2)
 
 * Første innlevering av pdf-filen til andre mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115882))
 * Mappe 2 skal **også** leveres på GitHub. Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-H24** (samme repositorie som mappe 1!)
+* Sett repositorie til privat, så kan ikke andre grupper snoke i ditt/din gruppes repositorie. Dette er fordi da får vi fort plagiat og fuskesaker.
 
 OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
