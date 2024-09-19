@@ -11,7 +11,7 @@ Skal leveres innen 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Pre
 Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 
 * Første innlevering av pdf-filen til første mappeoppgave gjøres her: ([Canvas innlevering](https://uit.instructure.com/courses/35385/assignments/115881))
-* Mappe 1 skal **også** leveres på GitHub. Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-H24**
+* Mappe 1 skal **også** leveres på GitHub. Husk å lag et repositorie med dine gruppemedlem, gi tilgang til faglærer (Github: 'MarkusAase97') og læringsassistent (Github: 'Jonazza'), kall dette repositorie for: **SOK-1003-eksamen-H24**
 * Navnet på repositorie må være eksakt likt for at innleveringen registreres!
 * Sett repositorie til privat, så kan ikke andre grupper snoke i ditt/din gruppes repositorie. Dette er fordi da får vi fort plagiat og fuskesaker.
 
