@@ -4,6 +4,7 @@
 Vurderingsformen i dette kurset er innlevering av to mappeoppgaver. Mappeoppgavene vil omhandle tema som gjennomgås i dette kurset. For hver mappeoppgave vil studentene presentere mappen. Dette er arbeidskrav (godkjent/ikke-godkjent). Studentene vil da få hint/kommentarer på oppgaven og deretter ha mulighet til å gjøre endringer før endelig innlevering. 
 
 Frister for innleveringer [finnes her](https://uit-sok-1003-h24.github.io/frister.html).
+Google Forms for å oppgi grupper og ønsket dato for presentasjon, finner dere [her](https://forms.gle/xHQMRp8TmeXnFsek7).
 
 ## Første mappeoppgave 
 Skal leveres innen 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til markus.j.aase@uit.no   
