@@ -8,7 +8,7 @@ Frister for innleveringer [finnes her](https://uit-sok-1003-h24.github.io/friste
 Google Forms for å oppgi grupper og ønsket dato for presentasjon, finner dere [her](https://forms.gle/xHQMRp8TmeXnFsek7).
 
 ## Første mappeoppgave 
-Skal leveres innen 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til markus.j.aase@uit.no   
+Skal leveres innen 17.10.2024, med presentasjon 21.10.2024 eller 23.10.2024. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til på Google Forms (se link over).
 
 Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 
