@@ -44,8 +44,20 @@ Mappeoppgave 2 finner dere [her](https://github.com/uit-sok-1003-h24/mappe2)
 * Mappe 2 skal **også** leveres på GitHub. Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-H24** (samme repositorie som mappe 1!)
 * Sett repositorie til privat, så kan ikke andre grupper snoke i ditt/din gruppes repositorie. Dette er fordi da får vi fort plagiat og fuskesaker.
 
-OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
-
+| Navn                                     | 18. november/Hvor  | Tidspunkt          | Navn                                     | 21. november/Hvor         | Tidspunkt          |
+|------------------------------------------|---------------------|--------------------|------------------------------------------|---------------------|--------------------|
+|Gude Veiby <br> Haakon Hanssen | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)     | 09:15 - 09:30      | Hugo Sæther   |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)  | 09:15-09:30     |
+| Patrick Fuglestad | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 09:30 - 09:45      | Erling Mikkola  | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 09:30 - 09:45       |
+| Patrick Benjamin | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)| 09:45 - 10:00      | Christian Pettersen <br> Kevin R. Hansen <br> Simond Berg |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 09:45 - 10:00    |
+| Patrick Fuglestad                       |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:00 - 10:15      |Andrea Olsen <br> Simon Olsen |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:00 - 10:15     |
+| Patrick Benjamin                        |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:15 - 10:30      | Sigurd Egeberg  |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:15 - 10:30      |
+| Joakim Nilsskog                         |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:30 - 10:45      | Nikolas ...    |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:30 - 10:45       |
+| Christian Juan Bertelsen                 |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:00 - 11:15      | Amir Abdiaziz   |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:45 - 11:00      |
+| Vegard Adolfsen                         |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)  | 10:45 - 11:00      | Oskar Bredrup  |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 16:00 - 16:15      |
+| Emma Bakkmyr <br> Sophie Haugenes Kristiansen |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:00 - 11:15      |         |                     |                    |
+| Preben                                   |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:15 - 11:30      |                                          |                     |                    |
+| Morten Jenssen                           |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:30 - 11:45      |                                          |                     |                    |
+| Erik Kvernmo                             |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)  | 11:45 - 12:00      |                                          |                     |                    |
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024.
 
 ## Endelig innlevering på Wiseflow og Github
