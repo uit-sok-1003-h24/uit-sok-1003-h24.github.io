@@ -17,20 +17,20 @@ Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 * Navnet på repositorie må være eksakt likt for at innleveringen registreres!
 * Sett repositorie til privat, så kan ikke andre grupper snoke i ditt/din gruppes repositorie. Dette er fordi da får vi fort plagiat og fuskesaker.
 
-| Navn                                     | 21. oktober         | Tidspunkt          | Navn                                     | 23. oktober         | Tidspunkt          |
+| Navn                                     | 21. oktober/Hvor  | Tidspunkt          | Navn                                     | 23. oktober/Hvor         | Tidspunkt          |
 |------------------------------------------|---------------------|--------------------|------------------------------------------|---------------------|--------------------|
-| Hugo Sæther                              |                     | 09:15 - 09:30      | Erling Mikkola                           |                     | 14:15 - 14:30      |
-| Gude Veiby <br> Haakon Hanssen          |                     | 09:30 - 09:45      | Andrea Karlsen <br> Simon Olsen         |                     | 14:30 - 14:45      |
-| Karianne Sandstå                        |                     | 09:45 - 10:00      | Christian Pettersen <br> Kevin R. Hansen <br> Simond Berg |   | 14:45 - 15:00      |
-| Patrick Fuglestad                       |                     | 10:00 - 10:15      | Pralavsagar Bhanot                      |                     | 15:00 - 15:15      |
-| Patrick Benjamin                        |                     | 10:15 - 10:30      | Sigurd Egeberg                          |                     | 15:15 - 15:30      |
-| Joakim Nilsskog                         |                     | 10:30 - 10:45      | Nikolas ...                             |                     | 15:30 - 15:45      |
-| Christian Juan Bertelsen                 |                     | 10:45 - 11:00      | Amir Abdiaziz                           |                     | 15:45 - 16:00      |
-| Vegard Adolfsen                         |                     | 10:45 - 11:00      | Oskar Bredrup                           |                     | 16:00 - 16:15      |
-| Emma Bakkmyr <br> Sophie Haugenes Kristiansen |                  | 11:00 - 11:15      |                                          |                     |                    |
-| Preben                                   |                     | 11:15 - 11:30      |                                          |                     |                    |
-| Morten Jenssen                           |                     | 11:30 - 11:45      |                                          |                     |                    |
-| Erik Kvernmo                             |                     | 11:45 - 12:00      |                                          |                     |                    |
+| Hugo Sæther                              | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)     | 09:15 - 09:30      | Erling Mikkola   |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)  | 14:15 - 14:30      |
+| Gude Veiby <br> Haakon Hanssen          | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 09:30 - 09:45      | Andrea Karlsen <br> Simon Olsen  | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 14:30 - 14:45      |
+| Karianne Sandstå                        | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 09:45 - 10:00      | Christian Pettersen <br> Kevin R. Hansen <br> Simond Berg |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 14:45 - 15:00      |
+| Patrick Fuglestad                       | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 10:00 - 10:15      | Pralavsagar Bhanot  |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 15:00 - 15:15      |
+| Patrick Benjamin                        | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 10:15 - 10:30      | Sigurd Egeberg  |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 15:15 - 15:30      |
+| Joakim Nilsskog                         | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 10:30 - 10:45      | Nikolas ...    |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 15:30 - 15:45      |
+| Christian Juan Bertelsen                 | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 10:45 - 11:00      | Amir Abdiaziz   |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 15:45 - 16:00      |
+| Vegard Adolfsen                         |[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 10:45 - 11:00      | Oskar Bredrup  |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 16:00 - 16:15      |
+| Emma Bakkmyr <br> Sophie Haugenes Kristiansen | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:00 - 11:15      |         |                     |                    |
+| Preben                                   |[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:15 - 11:30      |                                          |                     |                    |
+| Morten Jenssen                           | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:30 - 11:45      |                                          |                     |                    |
+| Erik Kvernmo                             | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 11:45 - 12:00      |                                          |                     |                    |
 
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 17.10.2024 (for å få godkjent arbeidskravet).
