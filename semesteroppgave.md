@@ -17,7 +17,35 @@ Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 * Navnet på repositorie må være eksakt likt for at innleveringen registreres!
 * Sett repositorie til privat, så kan ikke andre grupper snoke i ditt/din gruppes repositorie. Dette er fordi da får vi fort plagiat og fuskesaker.
 
-OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
+### 21. oktober
+| Navn                                    | Tidspunkt          |
+|-----------------------------------------|--------------------|
+| Hugo Sæther                             | 09:15 - 09:30      |
+| Gude Veiby <br> Haakon Hanssen         | 09:30 - 09:45      |
+| Karianne Sandstå                       | 09:45 - 10:00      |
+| Patrick Fuglestad                      | 10:00 - 10:15      |
+| Patrick Benjamin                       | 10:15 - 10:30      |
+| Joakim Nilsskog                        | 10:30 - 10:45      |
+| Christian Juan Bertelsen                | 10:45 - 11:00      |
+| Vegard Adolfsen                        | 10:45 - 11:00      |
+| Emma Bakkmyr <br> Sophie Haugenes Kristiansen | 11:00 - 11:15  |
+| Preben                                  | 11:15 - 11:30      |
+| Morten Jenssen                          | 11:30 - 11:45      |
+| Erik Kvernmo                            | 11:45 - 12:00      |
+
+&nbsp;
+
+### 23. oktober
+| Navn                                           | Tidspunkt          |
+|------------------------------------------------|--------------------|
+| Erling Mikkola                                 | 14:15 - 14:30      |
+| Andrea Karlsen <br> Simon Olsen                | 14:30 - 14:45      |
+| Christian Pettersen <br> Kevin R. Hansen <br> Simond Berg | 14:45 - 15:00   |
+| Pralavsagar Bhanot                             | 15:00 - 15:15      |
+| Sigurd Egeberg                                 | 15:15 - 15:30      |
+| Nikolas ...                                    | 15:30 - 15:45      |
+| Amir Abdiaziz                                  | 15:45 - 16:00      |
+| Oskar Bredrup                                  | 16:00 - 16:15      |
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 17.10.2024 (for å få godkjent arbeidskravet).
 
@@ -30,37 +58,7 @@ Mappeoppgave 2 finner dere [her](https://github.com/uit-sok-1003-h24/mappe2)
 * Mappe 2 skal **også** leveres på GitHub. Husk å lag et repositorie med dine gruppemedlem, gi tilgang til 'MarkusAase97' og 'Jonazza', kall repositorie for: **SOK-1003-eksamen-H24** (samme repositorie som mappe 1!)
 * Sett repositorie til privat, så kan ikke andre grupper snoke i ditt/din gruppes repositorie. Dette er fordi da får vi fort plagiat og fuskesaker.
 
-### 21. oktober
-| Navn       |  Tidspunkt          |
-|------------|-------------|
-| Hugo Sæther | 09:15 - 09:30        |
-| Gude Veiby <br> Haakon Hanssen | 09:30 - 09:45      |
-| Karianne Sandstå | 09:45-10:00   |
-| Patrick Fuglestad | 10:00-10:15   |
-| Patrick Benjamin | 10:15-10:30 |
-| Joakim Nilsskog | 10:30-10:45   |
-| Christian Juan Bertelsen | 10:45-11:00   |
-| Joakim Nilsskog | 10:30-10:45   |
-| Vegard Adolfsen | 10:45-11:00 |
-| Emma Bakkmyr <br> Sophie Haugenes Kristiansen | 11:00-11:15 |
-| Preben | 11:15-11:30 |
-| Morten Jenssen | 11:30 - 11:45|
-| Erik Kvernmo | 11:45-12:00 |
-
-
-
-### 23. oktober
-| Navn       | Tidspunkt          |
-|------------|-------------|
-| Erling Mikkola | 14:15-14:30   |
-|Andrea Karlsen <br> Simon Olsen |14:30-14:45      |
-| Christian Pettersen <br> Kevin R. Hansen <br> Simond Berg  |14:45-15:00   |
-| Pralavsagar Bhanot | 15:00-15:15 | 
-| Sigurd Egeberg | 15:15-15:30 |
-| Nikolas ... | 15:30-15:45 |
-| Amir Abdiaziz | 15:45-16:00 |
-| Oskar Bredrup | 16:00-16:15|
-
+OBS: Her vil det komme en tabell med tidspunkt for de ulike gruppene med presentasjon! :-)
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024.
 
