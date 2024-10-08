@@ -17,35 +17,21 @@ Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 * Navnet på repositorie må være eksakt likt for at innleveringen registreres!
 * Sett repositorie til privat, så kan ikke andre grupper snoke i ditt/din gruppes repositorie. Dette er fordi da får vi fort plagiat og fuskesaker.
 
-### 21. oktober
-| Navn                                    | Tidspunkt          |
-|-----------------------------------------|--------------------|
-| Hugo Sæther                             | 09:15 - 09:30      |
-| Gude Veiby <br> Haakon Hanssen         | 09:30 - 09:45      |
-| Karianne Sandstå                       | 09:45 - 10:00      |
-| Patrick Fuglestad                      | 10:00 - 10:15      |
-| Patrick Benjamin                       | 10:15 - 10:30      |
-| Joakim Nilsskog                        | 10:30 - 10:45      |
-| Christian Juan Bertelsen                | 10:45 - 11:00      |
-| Vegard Adolfsen                        | 10:45 - 11:00      |
-| Emma Bakkmyr <br> Sophie Haugenes Kristiansen | 11:00 - 11:15  |
-| Preben                                  | 11:15 - 11:30      |
-| Morten Jenssen                          | 11:30 - 11:45      |
-| Erik Kvernmo                            | 11:45 - 12:00      |
+| Navn                                     | 21. oktober         | Tidspunkt          | Navn                                     | 23. oktober         | Tidspunkt          |
+|------------------------------------------|---------------------|--------------------|------------------------------------------|---------------------|--------------------|
+| Hugo Sæther                              |                     | 09:15 - 09:30      | Erling Mikkola                           |                     | 14:15 - 14:30      |
+| Gude Veiby <br> Haakon Hanssen          |                     | 09:30 - 09:45      | Andrea Karlsen <br> Simon Olsen         |                     | 14:30 - 14:45      |
+| Karianne Sandstå                        |                     | 09:45 - 10:00      | Christian Pettersen <br> Kevin R. Hansen <br> Simond Berg |   | 14:45 - 15:00      |
+| Patrick Fuglestad                       |                     | 10:00 - 10:15      | Pralavsagar Bhanot                      |                     | 15:00 - 15:15      |
+| Patrick Benjamin                        |                     | 10:15 - 10:30      | Sigurd Egeberg                          |                     | 15:15 - 15:30      |
+| Joakim Nilsskog                         |                     | 10:30 - 10:45      | Nikolas ...                             |                     | 15:30 - 15:45      |
+| Christian Juan Bertelsen                 |                     | 10:45 - 11:00      | Amir Abdiaziz                           |                     | 15:45 - 16:00      |
+| Vegard Adolfsen                         |                     | 10:45 - 11:00      | Oskar Bredrup                           |                     | 16:00 - 16:15      |
+| Emma Bakkmyr <br> Sophie Haugenes Kristiansen |                  | 11:00 - 11:15      |                                          |                     |                    |
+| Preben                                   |                     | 11:15 - 11:30      |                                          |                     |                    |
+| Morten Jenssen                           |                     | 11:30 - 11:45      |                                          |                     |                    |
+| Erik Kvernmo                             |                     | 11:45 - 12:00      |                                          |                     |                    |
 
-&nbsp;
-
-### 23. oktober
-| Navn                                           | Tidspunkt          |
-|------------------------------------------------|--------------------|
-| Erling Mikkola                                 | 14:15 - 14:30      |
-| Andrea Karlsen <br> Simon Olsen                | 14:30 - 14:45      |
-| Christian Pettersen <br> Kevin R. Hansen <br> Simond Berg | 14:45 - 15:00   |
-| Pralavsagar Bhanot                             | 15:00 - 15:15      |
-| Sigurd Egeberg                                 | 15:15 - 15:30      |
-| Nikolas ...                                    | 15:30 - 15:45      |
-| Amir Abdiaziz                                  | 15:45 - 16:00      |
-| Oskar Bredrup                                  | 16:00 - 16:15      |
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 17.10.2024 (for å få godkjent arbeidskravet).
 
