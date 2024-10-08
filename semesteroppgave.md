@@ -56,7 +56,7 @@ Mappeoppgave 2 finner dere [her](https://github.com/uit-sok-1003-h24/mappe2)
 | Vegard Adolfsen                         |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)  | 11:00 - 11:15      | Oskar Bredrup  |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:00 - 11:15      |
 | Emma Bakkmyr <br> Sophie Haugenes Kristiansen |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:15 - 11:30  | Erik Kvernmo                             |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)  | 11:15 - 11:30      |                                          |                     |                    |
 | Preben                                   |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:30 - 11:45      |                                          |                     |                    |
-| Morten Jenssen                           |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:30 - 11:45      |                                          |                     |                    |            
+| Morten Jenssen                           |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:45 - 12:00      |                                          |                     |                    |            
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024.
 
 ## Endelig innlevering på Wiseflow og Github
