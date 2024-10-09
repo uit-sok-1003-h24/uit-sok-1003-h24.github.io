@@ -28,7 +28,7 @@ Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 | Christian Juan Bertelsen                 | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 10:45 - 11:00      | Amir Abdiaziz   |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 15:45 - 16:00      |
 | Vegard Adolfsen                         |[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 11:00 - 11:15      | Oskar Bredrup  |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 16:00 - 16:15      |
 | Emma Bakkmyr <br> Sophie Haugenes Kristiansen | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:15 - 11:30      |Christian Paul Hansen|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|16:15-16:30 |
-| Preben                                   |[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:30 - 11:45      |                                          |                     |                    |
+| Preben                                   |[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:30 - 11:45      |Sivert Kind|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|16:30-16:45|
 | Morten Jenssen                           | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:45 - 12:00      |                                          |                     |                    |
 | Erik Kvernmo                             | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 12:00 - 12:15   |                                          |                     |                    |
 
