@@ -17,6 +17,12 @@ Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 * Navnet på repositorie må være eksakt likt for at innleveringen registreres!
 * Sett repositorie til privat, så kan ikke andre grupper snoke i ditt/din gruppes repositorie. Dette er fordi da får vi fort plagiat og fuskesaker.
 
+
+#### Presentasjon mappe 1
+Under er en tabell som viser når presentasjonene skjer. Her skal dere presentere hva dere har gjort, og vil få spørsmål om hva dere har gjort og hvorfor. Dette er et arbeidskrav som må være godkjent for å ta eksamen.
+
+Som dere ser er det litt stramt tidsskjema, så presentasjon er tiltenkt å ta 10-15 minutter - så møt opp en halvtime før det er din tur til å presentere. Så kan vi holde innenfor de tidsrammene hvor rommet er holdt av.
+
 | Navn                                     | 21. oktober/Hvor  | Tidspunkt          | Navn                                     | 23. oktober/Hvor         | Tidspunkt          |
 |------------------------------------------|---------------------|--------------------|------------------------------------------|---------------------|--------------------|
 | Hugo Sæther                              | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)     | 09:15 - 09:30      | Erling Mikkola   |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)  | 14:15 - 14:30      |
