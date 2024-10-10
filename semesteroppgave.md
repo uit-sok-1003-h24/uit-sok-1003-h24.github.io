@@ -29,7 +29,7 @@ Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h24/mappe)
 | Vegard Adolfsen                         |[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 11:00 - 11:15      | Oskar Bredrup  |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 16:00 - 16:15      |
 | Emma Bakkmyr <br> Sophie Haugenes Kristiansen | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:15 - 11:30      |Christian Paul Hansen|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|16:15-16:30 |
 | Preben                                   |[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:30 - 11:45      |Sivert Kind|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|16:30-16:45|
-| Morten Jenssen                           | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:45 - 12:00      |                                          |                     |                    |
+| Morten Jenssen                           | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 11:45 - 12:00      |Håkon Thrane|[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)|16:45-17:00|
 | Erik Kvernmo                             | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 12:00 - 12:15   |                                          |                     |                    |
 
 
@@ -57,6 +57,7 @@ Mappeoppgave 2 finner dere [her](https://github.com/uit-sok-1003-h24/mappe2)
 | Emma Bakkmyr <br> Sophie Haugenes Kristiansen | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:15 - 11:30      | Erik Kvernmo                             | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)  | 11:15 - 11:30      |
 | Preben                                   | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:30 - 11:45      |Christian Paul Hansen|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|11:30 - 11:45|
 | Morten Jenssen                           | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 11:45 - 12:00      |Sivert Kind|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|11:45 - 12:00 |
+| | |     |Håkon Thrane|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|12:00 - 12:15 |
 
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024.
