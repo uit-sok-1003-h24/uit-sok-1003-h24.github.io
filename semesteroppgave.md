@@ -64,8 +64,8 @@ Mappeoppgave 2 finner dere [her](https://github.com/uit-sok-1003-h24/mappe2)
 | Preben                                   | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:30 - 10:45      |Christian Paul Hansen|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)| 10:30 - 10:45 |
 | Morten Jenssen                           | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:45 - 11:00      |Sivert Kind|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|10:45 - 11:00 |
 | | |     |Håkon Thrane|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|11:00 - 11:15 |
-| | |     |Andreas Brandsegg|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|11:00 - 11:15 |
-| | |     |Benjamin Arvola Notkevich|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|11:15 - 12:00 |
+| | |     |Andreas Brandsegg|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|11:15 - 11:30 |
+| | |     |Benjamin Arvola Notkevich|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) / Teams|11:30 - 11:45 |
 
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 14.11.2024.
