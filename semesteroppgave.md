@@ -36,8 +36,7 @@ Som dere ser er det litt stramt tidsskjema, så presentasjon er tiltenkt å ta 1
 | Emma Bakkmyr <br> Sophie Haugenes Kristiansen | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 10:15 - 10:30      |Christian Paul Hansen|[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)|11:15-11:30 |
 | Preben                                   |[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 10:30 - 10:45      |Sivert Kind|[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)|11:30-11:45|
 | Morten Jenssen| [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) | 10:45 - 11:00      |Håkon Thrane|[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)|11:45-12:00|
-| Erik Kvernmo                             | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 11:00 - 11:15   |Andreas Brandsegg|[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)   |12:00-12:15| |Paul Indset|[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  |11:15-11:30 |
-Benjamin Arvola Notkevich| [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) /Teams  |12:15-12:30   |
+| Erik Kvernmo                             | [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  | 11:00 - 11:15   |Andreas Brandsegg|[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)   |12:00-12:15| |Paul Indset|[HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119)  |11:15-11:30 |Benjamin Arvola Notkevich| [HHT 02.119](https://uit.no/mazemaproom?zoom=20&room_name=HHT+02.119) /Teams  |12:15-12:30   |
 
 MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 29.11.2024. Mappen skal likevel være i relativt ferdig form ved innleveringen 17.10.2024 (for å få godkjent arbeidskravet).
 
