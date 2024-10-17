@@ -63,7 +63,7 @@ Mappeoppgave 2 finner dere [her](https://github.com/uit-sok-1003-h24/mappe2)
 | Emma Bakkmyr <br> Sophie Haugenes Kristiansen | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:15 - 10:30      | Erik Kvernmo                             | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)  | 10:15 - 10:30  |
 | Preben                                   | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:30 - 10:45      |Christian Paul Hansen|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)| 10:30 - 10:45 |
 | Morten Jenssen                           | [HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) | 10:45 - 11:00      |Sivert Kind|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|10:45 - 11:00 |
-| | |     |Håkon Thrane|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|11:00 - 11:15 |
+|Paul Indset |[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) |11:00-11:15|Håkon Thrane|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|11:00 - 11:15 |
 | | |     |Andreas Brandsegg|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202)|11:15 - 11:30 |
 | | |     |Benjamin Arvola Notkevich|[HHT 01.202](https://uit.no/mazemaproom?zoom=20&room_name=HHT+01.202) / Teams|11:30 - 11:45 |
 
